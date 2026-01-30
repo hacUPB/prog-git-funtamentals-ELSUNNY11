@@ -67,3 +67,8 @@ git add .
 Guarda los cambios con:
 
 git commit -m "Primer commit"
+
+![img1](/../)
+
+
+

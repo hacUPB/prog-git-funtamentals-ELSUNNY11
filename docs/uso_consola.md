@@ -15,3 +15,5 @@
 - mkdir nombre → crear carpeta
 
 - touch archivo.txt → crear archivo vacío
+
+![img1](../images/COMANDOS.png)
