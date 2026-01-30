@@ -68,7 +68,7 @@ Guarda los cambios con:
 
 git commit -m "Primer commit"
 
-![img1](/../)
+![img1](../images/REPO%20LOCAL.png)
 
 
 
