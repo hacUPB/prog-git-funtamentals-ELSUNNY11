@@ -89,3 +89,5 @@ Subir tus cambios locales
 git add .
 git commit -m "Mensaje"
 git push
+
+![img](../images/REPO%20REMOTO.png)
